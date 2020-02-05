@@ -1,1 +1,1 @@
-# holbertonschool-low_level_programming
+In this repo I get familiar with C
