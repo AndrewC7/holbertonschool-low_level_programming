@@ -3,6 +3,8 @@
 /**
  * _islower - checks if uppercase or lowercase
  *
+ * @c: - input passed
+ *
  * Return: 0 (Success)
  */
 
