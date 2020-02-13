@@ -47,4 +47,4 @@
 ---
 
 ## Author
-* [AndrewC7](https://github.com/AndrewC7)
+[AndrewC7](https://github.com/AndrewC7)
