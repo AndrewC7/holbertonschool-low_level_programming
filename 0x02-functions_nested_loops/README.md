@@ -1,7 +1,6 @@
 # 0x02. C - Functions, nested loops
 
-## Description
-Learning Objectives
+## Learning Objectives
 
 * What are nested loops and how to use them
 * What are header files and how to to use them with #include
