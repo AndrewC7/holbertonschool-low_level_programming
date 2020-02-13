@@ -1,7 +1,7 @@
 # 0x01. C - Variables, if, else, while
 
 ## Description
-What you should learn from this project:
+Learning Objectives
 
 * What are the arithmetic operators, logical operators, and relational operators and how to use them
 * How to use the if, if ... else statements
