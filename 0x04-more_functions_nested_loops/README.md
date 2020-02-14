@@ -3,9 +3,10 @@
 ## Learning Objectives
 
 * What are nested loops and how to use them
-* What are header files and how to to use them with #include
-* What is a function and how do you use functions
+* What is a function and how to use one
 * What is the difference between a declaration and a definition of a function
+* What are the gcc flags -Wall -Werror -pedantic -Wextra
+* What are header files and how to to use them with #include
 
 ---
 
