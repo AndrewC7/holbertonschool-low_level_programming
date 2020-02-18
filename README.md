@@ -1,7 +1,5 @@
 # Low Level Programming and Algorithms - Hatching Out
 
----
-
 ### 0x00. C - Hello, World
 * What happens when you type gcc main.c
 * How to print text using printf, puts and putchar
