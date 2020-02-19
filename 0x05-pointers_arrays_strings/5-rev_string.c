@@ -4,7 +4,7 @@
  *
  * @s: string
  *
- * Return: nothing.
+ * Return: Void
  */
 
 void rev_string(char *s)
@@ -21,7 +21,7 @@ void rev_string(char *s)
 		temp = s[i];
 		s[i] = s[length];
 		s[length] = temp;
-		count--;
+		length--;
 	}
 
 }
