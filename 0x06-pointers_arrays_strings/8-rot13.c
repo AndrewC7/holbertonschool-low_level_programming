@@ -3,7 +3,7 @@
  * rot13 - encodes string using rot13
  *
  * @s: string to be encoded
- * 
+ *
  * Return: coded string
  */
 
