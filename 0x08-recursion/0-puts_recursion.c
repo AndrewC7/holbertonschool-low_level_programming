@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * _memset - prints char recursively
+ * _puts_recursion - prints char recursively
  *
  * @s: pointer to char to print
  *
