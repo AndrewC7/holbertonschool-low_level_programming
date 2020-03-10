@@ -21,6 +21,24 @@ struct dog
 	char *owner;
 };
 
+/**
+ * struct dog_t - define new type as a new name
+ *
+ * @name: dog name
+ * @age: dog age
+ *
+ * @owner: owner of dog
+ */
+
+typedef struct dog_t
+{
+	char *name;
+	float age;
+	char *owner;
+} dog_t;
+
+
+
 
 void init_dog(struct dog *d, char *name, float age, char *owner);
 void print_dog(struct dog *d);
