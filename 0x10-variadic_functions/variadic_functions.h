@@ -10,4 +10,22 @@ void print_numbers(const char *separator, const unsigned int n, ...);
 void print_strings(const char *separator, const unsigned int n, ...);
 void print_all(const char * const format, ...);
 
+
+/**
+ * struct vartype - struct vartype
+ *
+ * @vartype: type of variable to be printed
+ * @f: the function associated
+ */
+typedef struct datatype
+{
+	char *datatype;
+	void (*f)(va_list);
+} data_t;
+
+void _printchar(va_list args);
+void _printinteger(va_list args);
+void _printfloat(va_list args);
+void _printstring(va_list args);
+
 #endif
