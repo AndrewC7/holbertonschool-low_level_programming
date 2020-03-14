@@ -12,10 +12,9 @@ void print_all(const char * const format, ...);
 
 
 /**
- * struct vartype - struct vartype
- *
- * @vartype: type of variable to be printed
- * @f: the function associated
+ * struct datatype - datatype struct
+ * @datatype: var type to print
+ * @f: pointer to corresponding func
  */
 typedef struct datatype
 {
