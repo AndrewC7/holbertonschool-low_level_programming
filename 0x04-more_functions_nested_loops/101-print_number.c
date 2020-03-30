@@ -2,7 +2,7 @@
 
 /**
  * print_number - converts int to string
- * 
+ *
  * @n: int passed
  *
  * Return: void
